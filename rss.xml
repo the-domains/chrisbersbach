@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[chrisbersbach]]></title>
         <description><![CDATA[chrisbersbach]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chrisbersbach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 05:42:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 16 Oct 2015 05:49:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chrisbersbach/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rory Aronson - San Luis Obispo]]></title>
+            <description><![CDATA[<article><h1>Rory Aronson - San Luis Obispo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5eea95e-3b7a-4a45-aa36-99b84bedf98d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chrisbersbach/rory-aronson-san-luis-obispo/index.html</link>
+            <guid isPermaLink="false">fa937862-4429-4e3f-8e78-8e7b5d639423</guid>
+            <pubDate>Fri, 16 Oct 2015 05:48:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rory Aronson - San Luis Obispo]]></title>
             <description><![CDATA[<article><h1>Rory Aronson - San Luis Obispo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4045a88e-398a-421d-abde-7b3c2a6b7d9e.jpg"></article>]]></description>
-            <link>undefinedrory-aronson-san-luis-obispo/index.html</link>
+            <link>https://thegrid.ai/chrisbersbach/rory-aronson-san-luis-obispo/index.html</link>
             <guid isPermaLink="false">07de6c90-2921-4d76-86d9-0541c36bdb00</guid>
             <pubDate>Fri, 16 Oct 2015 05:41:23 GMT</pubDate>
         </item>
