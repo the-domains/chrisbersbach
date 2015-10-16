@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[chrisbersbach]]></title>
-        <description><![CDATA[chrisbersbach]]></description>
+        <title><![CDATA[Photography by Christopher Bersbach]]></title>
+        <description><![CDATA[Photography by Christopher Bersbach]]></description>
         <link>https://thegrid.ai/chrisbersbach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 05:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 05:55:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chrisbersbach/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clint Slaughter - San Luis Obispo]]></title>
+            <description><![CDATA[<article><h1>Clint Slaughter - San Luis Obispo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13d849a0-b8f0-4fc0-9a59-0b41cf9dd7f6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chrisbersbach/clint-slaughter-san-luis-obispo/index.html</link>
+            <guid isPermaLink="false">55f6adfd-14b7-4bf1-890e-671a1658cb84</guid>
+            <pubDate>Fri, 16 Oct 2015 05:54:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rory Aronson - San Luis Obispo]]></title>
             <description><![CDATA[<article><h1>Rory Aronson - San Luis Obispo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5eea95e-3b7a-4a45-aa36-99b84bedf98d.jpg"></article>]]></description>
